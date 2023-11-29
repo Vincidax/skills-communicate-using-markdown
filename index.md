@@ -13,3 +13,6 @@ $ pwd
 ```
 it shows you the full pathname of the directory you're currently in within the file system.
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
